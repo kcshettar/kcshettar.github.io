@@ -2,6 +2,7 @@
 
 Repositories I have created on my page are listed below. 
 
+### Computer Graphics
 1. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-1)
 For more infor click on the link above
 
@@ -18,6 +19,17 @@ For more infor click on the link above
 For more infor click on the link above
 
 6. [Computer Graphics - 1 - Exam Final Project Two](https://github.com/kcshettar/cg-final)
+For more infor click on the link above
+
+### Internet of Things [IoT]
+1. [Internet of Things - Final Project](https://github.com/kcshettar/IoT-project)
+For more infor click on the link above
+
+2. [Internet of Things - All Assignments](https://github.com/kcshettar/IoT-all)
+For more infor click on the link above
+
+### Cyber Crime Investigation
+1. [Final Project & Assignments](https://github.com/kcshettar/cyber-crime-investigation)
 For more infor click on the link above
 
 [editor on GitHub](https://github.com/kcshettar/kcshettar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
