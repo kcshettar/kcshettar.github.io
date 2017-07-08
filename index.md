@@ -1,4 +1,4 @@
-[contact AUTHOR](https://github.com/contact)
+[contact AUTHOR](http://www.cs.uml.edu/~kshettar/)
 
 ## Welcome to MyGitHub Page
 
