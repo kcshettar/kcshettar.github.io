@@ -1,6 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to MyGitHub Page
 
-You can use the [editor on GitHub](https://github.com/kcshettar/kcshettar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Repositories I have created on my page are listed below. 
+
+```markdown
+1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
+
+For more infor click on the link above
+Description: This assignment deals with  drawing
+```
+```markdown
+1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
+```
+```markdown
+1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
+```
+```markdown
+1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
+```
+[editor on GitHub](https://github.com/kcshettar/kcshettar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
