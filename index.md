@@ -2,20 +2,24 @@
 
 Repositories I have created on my page are listed below. 
 
-1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
-
+1. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-1)
 For more infor click on the link above
-Description: This assignment deals with  drawing
 
-```markdown
-1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
-```
-```markdown
-1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
-```
-```markdown
-1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
-```
+2. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-2)
+For more infor click on the link above
+
+3. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-3)
+For more infor click on the link above
+
+4. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-4)
+For more infor click on the link above
+
+5. [Computer Graphics - 1 - Exam Final Project One](https://github.com/kcshettar/cg-exam-2)
+For more infor click on the link above
+
+6. [Computer Graphics - 1 - Exam Final Project Two](https://github.com/kcshettar/cg-final)
+For more infor click on the link above
+
 [editor on GitHub](https://github.com/kcshettar/kcshettar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
