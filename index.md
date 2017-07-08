@@ -1,4 +1,4 @@
-[contact support](https://github.com/contact)
+[contact AUTHOR](https://github.com/contact)
 
 ## Welcome to MyGitHub Page
 
