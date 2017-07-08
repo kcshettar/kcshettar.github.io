@@ -2,35 +2,26 @@
 
 ## Welcome to MyGitHub Page
 
-### Computer Graphics
+### Computer Graphics:
 1. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-1)
-For more infor click on the link above
 
 2. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-2)
-For more infor click on the link above
 
 3. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-3)
-For more infor click on the link above
 
 4. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-4)
-For more infor click on the link above
 
 5. [Computer Graphics - 1 - Exam Final Project One](https://github.com/kcshettar/cg-exam-2)
-For more infor click on the link above
 
 6. [Computer Graphics - 1 - Exam Final Project Two](https://github.com/kcshettar/cg-final)
-For more infor click on the link above
 
-### Internet of Things [IoT]
+### Internet of Things [IoT]:
 1. [Internet of Things - Final Project](https://github.com/kcshettar/IoT-project)
-For more infor click on the link above
 
 2. [Internet of Things - All Assignments](https://github.com/kcshettar/IoT-all)
-For more infor click on the link above
 
-### Cyber Crime Investigation
+### Cyber Crime Investigation:
 1. [Final Project & Assignments](https://github.com/kcshettar/cyber-crime-investigation)
-For more infor click on the link above
 
 [editor on GitHub](https://github.com/kcshettar/kcshettar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
