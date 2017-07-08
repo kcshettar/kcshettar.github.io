@@ -2,12 +2,11 @@
 
 Repositories I have created on my page are listed below. 
 
-```markdown
 1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
 
 For more infor click on the link above
 Description: This assignment deals with  drawing
-```
+
 ```markdown
 1. [Computer Graphics - 1](https://github.com/kcshettar/cg-assignment-1)
 ```
