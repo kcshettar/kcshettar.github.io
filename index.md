@@ -1,8 +1,7 @@
 [contact AUTHOR](https://github.com/contact)
 
 ## Welcome to MyGitHub Page
-
-Repositories I have created on my page are listed below. 
+## My Repositories are listed below. 
 
 ### Computer Graphics
 1. [Computer Graphics - 1 - Assignment](https://github.com/kcshettar/cg-assignment-1)
